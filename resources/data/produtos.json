@@ -1,0 +1,1410 @@
+{
+  "cat": [
+    {
+      "nomecat": "Fermentos Biológicos",
+      "subcat": [
+        {
+          "nomesubcat": "Fermento Biológico Seco Instantâneo",
+          "imgthusc": "produtos/thumb/fermento_bio_seco_msalgada.png",
+          "prodcat": [
+            {
+              "nome": "Massa sal ",
+              "caracter": "• Fácil de dosar</br> • Não necessita ser dissolvido, basta adicionar juntamente à farinha</br> • Não necessita de refrigeração </br>• Alta performance e poder fermentativo</br> • Uniformidade de ação e de produção",
+              "embalagem": "• Caixa de 10 kg com 20 embalagens a vácuo de 500 g cada</br> • Caixa de 10 kg com 1 embalagem a vácuo de 10 kg",
+              "validade": "2 anos",
+              "sku": "• 20 x 500 g - A0150200</br>• 10 kg - A0021800",
+              "ean": "• 20 x 500 g - 789 840995502 0</br>• 10 kg - 789 840995260 9",
+              "dun": "• 20 x 500 g - 1 789 840995502 7</br>• 10 kg - 1 789 840995260 6",
+              "faq": "xx",
+              "img": "produtos/fermento_bio_seco_msalgada.png",
+              "imgthu": "produtos/thumb/fermento_bio_seco_msalgada.png",
+              "pdf": "fermento_bio_seco_msal.pdf"
+            },
+            {
+              "nome": "Massa Doce",
+              "caracter": "• Fácil de dosar</br> • Não necessita ser dissolvido, basta adicionar juntamente à farinha</br> • Não necessita de refrigeração</br> • Alta performance e poder fermentativo</br> • Uniformidade de ação e de produção",
+              "embalagem": "• Caixa de 10 kg com 20 embalagens a vácuo de 500 g cada</br> • Caixa de 10 kg com 1 embalagem a vácuo de 10 kg",
+              "validade": "2 anos",
+              "sku": "• 20 x 500 g - A0092600</br>• 10 kg - A0203000",
+              "ean": "• 20 x 500 g - 789 840995926 4</br>• 10 kg - 789 840995261 6",
+              "dun": "• 20 x 500 g - 1 789 840995926 1</br> • 10 kg - 1 789 840995261 3",
+              "faq": "xx",
+              "img": "produtos/fermento_bio_seco_mdoce.png",
+              "imgthu": "produtos/thumb/fermento_bio_seco_mdoce.png",
+              "pdf": "fermento_bio_seco_mdoce.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Fermento Biológico Fresco",
+          "imgthusc": "produtos/thumb/fermento_bio_fresco.png",
+          "prodcat": [
+            {
+              "nome": "Massa Sal",
+              "caracter": "• Ideal para massas com até 5% de açúcar </br> • Líder mundial de fermento</br> • Qualidade garantida desde 1931</br> • Alto poder fermentativo</br> • Fácil de manusear</br> • Age bem em qualquer tipo de massa</br> • Uniformidade de ação</br> • Maior volume aos pães</br> • Embalagem de celofane: maior proteção ao fermento",
+              "embalagem": "• Caixa de 25 kg com 50 embalagens de 500 g cada</br> • Embalagem kraft de 25 kg</br> • Embalagem kraft de 24 kg  ",
+              "validade": "• 45 dias",
+              "sku": "• Caixa de 25 kg com 50 embalagens de 500 g - A0156800</br> • Embalagem kraft de 25 kg - A0011400</br> • Embalagem kraft de 24 kg - A0012600 ",
+              "ean": "• Caixa de 25 kg com 50 embalagens de 500 g - 789 840 995 215-9</br> • Embalagem kraft de 25 kg - 789 840995 819-9</br> • Embalagem kraft de 24 kg - 789 840995 022-3",
+              "dun": "• Caixa de 25 kg com 50 embalagens de 500 g - 1 789 840995 568-3</br> • Embalagem kraft de 25 kg ----------</br> • Embalagem kraft de 24 kg ---------- ",
+              "faq": "xx",
+              "img": "produtos/fermento_bio_fresco.png",
+              "imgthu": "produtos/thumb/fermento_bio_fresco.png",
+              "pdf": "fermento_bio_fresco_msal.pdf"
+            },
+            {
+              "nome": "Massa Doce",
+              "caracter": "• Alta performance em massas com mais de 5% de açúcar (massas doces)</br> • Elaborado com cepa que tem melhor desempenho em massas doces</br> • Líder mundial de fermento</br> • Qualidade garantida desde 1931</br> • Alto poder fermentativo</br> • Fácil de manusear</br> • Age bem em qualquer tipo de massa</br> • Uniformidade de ação</br> •Maior volume aos pães</br> • Embalagem de celofane: maior proteção ao fermento",
+              "embalagem": "• Caixa de 25 kg com 50 embalagens de 500 g cada</br> • Embalagem kraft de 25 kg</br> ",
+              "validade": "• 45 dias",
+              "sku": "• Caixa de 25 kg com 50 embalagens de 500 g cada - A0170600</br> • Embalagem kraft de 25 kg - A0027500</br> ",
+              "ean": "• Caixa de 25 kg com 50 embalagens de 500 g cada - 789 840995 706-2</br> • Embalagem kraft de 25 kg - 789 840995 029-2</br> ",
+              "dun": "• Caixa de 25 kg com 50 embalagens de 500 g cada - 1 789 840995 706-9</br> • Embalagem kraft de 25 kg ----------</br> ",
+              "faq": "xx",
+              "img": "produtos/fermento_bio_massa_doce.png",
+              "imgthu": "produtos/thumb/fermento_bio_massa_doce.png",
+              "pdf": "fermento_bio_fresco_mdoce.pdf"
+            },
+            {
+              "nome": "Massa Congelada",
+              "caracter": "• Melhor desempenho em massas congeladas</br> • Maior volume no produto ﬁnal (até 16%)</br> • Elaborado com cepa mais resistente, por isso maior tolerância ao congelamento</br> • Proporciona melhor retomada da fermentação após o descongelamento</br> • Melhores resultados são observados após 15 dias de produção</br> • Pães congelados com shelf life de até 90 dias a -18ºC</br> • Líder mundial de fermento</br> • Qualidade garantida desde 1931</br> • Alto poder fermentativo</br> • Fácil de manusear</br> • Age bem em qualquer tipo de massa</br> • Uniformidade de ação</br> • Maior volume aos pães</br> • Embalagem de celofane: maior proteção ao fermento",
+              "embalagem": "• Caixa de 25 kg com 50 embalagens de 500 g cada</br> • Embalagem kraft de 25 kg</br>  ",
+              "validade": "• 45 dias",
+              "sku": "• Caixa de 25 kg com 50 embalagens de 500 g - A0000300</br> • Embalagem kraft de 25 kg- A0000400</br>  ",
+              "ean": "• Caixa de 25 kg com 50 embalagens de 500 g - 789 840995 003-2</br> • Embalagem kraft de 25 kg- 789 840995 036-0</br>  ",
+              "dun": "• Caixa de 25 kg com 50 embalagens de 500 g - 1 789 840995 003-9</br> • Embalagem kraft de 25 kg ----------</br>  ",
+              "faq": "xx",
+              "img": "produtos/fermento_bio_massa_congelada.png",
+              "imgthu": "produtos/thumb/fermento_bio_massa_congelada.png",
+              "pdf": "fermento_bio_fresco_mcongelada.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Fermento Químico",
+      "subcat": [
+        {
+          "nomesubcat": "Fermento Químico",
+          "imgthusc": "produtos/thumb/fermento_po_quimico.png",
+          "prodcat": [
+            {
+              "nome": "Fermento em Pó Químico",
+              "caracter": "• Indispensável para bolos, tortas, biscoitos, etc</br> • Fermento químico de dupla ação: age na batedeira e no forno</br> • Receita balanceada</br> • Alta qualidade</br> • Melhor textura e maior volume",
+              "embalagem": "• Caixa de 20 kg com 10 cartuchos de 2 kg cada</br>• Embalagem kraft de 20 kg  ",
+              "validade": "• 6 meses",
+              "sku": "• Caixa de 20 kg com 10 cartuchos de 2 kg - A0152500</br>• Embalagem kraft de 20 kg - A0152700  ",
+              "ean": "• Caixa de 20 kg com 10 cartuchos de 2 kg - 789 840995 525-9</br>• Embalagem kraft de 20 kg - 789 840995 527-3",
+              "dun": "• Caixa de 20 kg com 10 cartuchos de 2 kg - 1 789 840995 525-6</br>• Embalagem kraft de 20 kg ----------",
+              "faq": "xx",
+              "img": "produtos/fermento_po_quimico.png",
+              "imgthu": "produtos/thumb/fermento_po_quimico.png",
+              "pdf": "fermento_po_quimico.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Pré Misturas Panificação",
+      "subcat": [
+        {
+          "nomesubcat": "Pães Premium",
+          "imgthusc": "produtos/thumb/baguette_branca.png",
+          "prodcat": [
+            {
+              "nome": "Baguette branca",
+              "caracter": "• Produto de sabor diferenciado e único, altamente crocante e textura típica de baguette francesa</br> • Tem em sua composição diferentes tipos de Massa Madre*</br> • Alvéolos e pestana bem definidos</br> • Praticidade e alto desempenho</br> • Versatilidade: possibilita o preparo de diversas receitas</br> • Padronização: resulta em produtos de alta qualidade</br> • Economia: elimina desperdício de tempo no balanceamento da receita</br></br>• Rendimento: 32 unid. de 250 g por saco de 5 kg - Baguette Branca</br></br>*Massa Madre:</br> A Massa Madre tem origem em uma fermentação longa e natural, pela mistura de farinha (uma ou mais) com água e leveduras que se encontram no ambiente, criando sabores e aromas únicos. Sua utilização confere sabor e aroma mais intenso, maior leveza e maior tempo de prateleira para o pão. ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0167900",
+              "ean": "789 840995 095-7",
+              "dun": "1 789 840995 095-4",
+              "faq": "xx",
+              "img": "produtos/baguette_branca.png",
+              "imgthu": "produtos/thumb/baguette_branca.png",
+              "pdf": "baguette_branca.pdf"
+            },
+            {
+              "nome": "Baguette preta",
+              "caracter": "• Produto de sabor diferenciado e único, altamente crocante e textura típica de baguette francesa</br> • Tem em sua composição diferentes tipos de Massa Madre*</br> • Alvéolos e pestana bem definidos</br> • Contém sementes de girassol e gergelim</br> • Praticidade e alto desempenho</br> • Versatilidade: possibilita o preparo de diversas receitas</br> • Padronização: resulta em produtos de alta qualidade</br> • Economia: elimina desperdício de tempo no balanceamento da receita</br></br>• Rendimento: 31 unid. de 250 g por saco de 5 kg - Baguette Preta</br></br>*Massa Madre:</br> A Massa Madre tem origem em uma fermentação longa e natural, pela mistura de farinha (uma ou mais) com água e leveduras que se encontram no ambiente, criando sabores e aromas únicos. Sua utilização confere sabor e aroma mais intenso, maior leveza e maior tempo de prateleira para o pão. ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0168000",
+              "ean": "789 840995 096-4",
+              "dun": "1 789 840995 096-1",
+              "faq": "xx",
+              "img": "produtos/baguette_preta.png",
+              "imgthu": "produtos/thumb/baguette_preta.png",
+              "pdf": "baguette_preta.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Pães tradição",
+          "imgthusc": "produtos/thumb/pao_italiano.png",
+          "prodcat": [
+            {
+              "nome": "Pão Italiano",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0168300",
+              "ean": "789 840995 101-5",
+              "dun": "1 789 840995 101-2",
+              "faq": "xx",
+              "img": "produtos/pao_italiano.png",
+              "imgthu": "produtos/thumb/pao_italiano.png",
+              "pdf": "pao_italiano.pdf"
+            },
+            {
+              "nome": "Pão Ciabata",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0168500",
+              "ean": "789 840995 102-2",
+              "dun": "1 789 840995 102-9",
+              "faq": "xx",
+              "img": "produtos/ciabata.png",
+              "imgthu": "produtos/thumb/ciabata.png",
+              "pdf": "ciabata.pdf"
+            },
+            {
+              "nome": "Pão Australiano",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0167700",
+              "ean": "789 840995 100-8",
+              "dun": "1 789 840995 100-5",
+              "faq": "xx",
+              "img": "produtos/pao_australiano.png",
+              "imgthu": "produtos/thumb/pao_australiano.png",
+              "pdf": "pao_australiano.pdf"
+            },
+            {
+              "nome": "Multimix 1kg",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0155900",
+              "ean": "789 840995 559-4",
+              "dun": "1 789 840995 559-1",
+              "faq": "xx",
+              "img": "produtos/multimix.png",
+              "imgthu": "produtos/thumb/multimix.png",
+              "pdf": "multimix.pdf"
+            },
+            {
+              "nome": "Multimix 5kg",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0434300",
+              "ean": "789 840995 343-9",
+              "dun": "1 789 840995 343-6",
+              "faq": "xx",
+              "img": "produtos/multimix2.png",
+              "imgthu": "produtos/thumb/multimix2.png",
+              "pdf": "multimix_2.pdf"
+            },
+            {
+              "nome": "Brioche",
+              "caracter": "• Qualidade de pães artesanais</br>• Resulta em produtos finais de alta qualidade</br>• Receita bem balanceada</br>• Fácil manuseio para o padeiro</br>• Elimina desperdício de tempo no balanceamento da receita</br> • Alto rendimento</br>• Bom salto de forno</br>• Excelente textura: parece produto artesanal</br> • Grande variedade de produto final ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0434200",
+              "ean": "789 840995 342-2",
+              "dun": "1 789 840995 342-9 ",
+              "faq": "xx",
+              "img": "produtos/brioche.png",
+              "imgthu": "produtos/thumb/brioche.png",
+              "pdf": "mistura_brioche.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Pães Leves",
+          "imgthusc": "produtos/thumb/paes_leves.png",
+          "prodcat": [
+            {
+              "nome": "Pão Leve Integral",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso   ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 4 meses",
+              "sku": "A0167000",
+              "ean": "789 840995 670-6",
+              "dun": "1 789 840995 670-3",
+              "faq": "xx",
+              "img": "produtos/paes_integrais.png",
+              "imgthu": "produtos/thumb/paes_integrais.png",
+              "pdf": "paes_integrais.pdf"
+            },
+            {
+              "nome": "Pão Leve Integral Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos.",
+              "validade": "• 4 meses",
+              "sku": "A0168400",
+              "ean": "789 840995 670-6",
+              "dun": "1 789 840995 684-0",
+              "faq": "xx",
+              "img": "produtos/kit_integral.png",
+              "imgthu": "produtos/thumb/kit_integral.png",
+              "pdf": "kit_integral.pdf"
+            },
+            {
+              "nome": "Pão Leve Multigrãos Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos.",
+              "validade": "• 4 meses",
+              "sku": "A0167400",
+              "ean": "789 840995 674-4",
+              "dun": "1 789 840995 674-1",
+              "faq": "xx",
+              "img": "produtos/kit_multigraos.png",
+              "imgthu": "produtos/thumb/kit_multigraos.png",
+              "pdf": "kit_multigraos.pdf"
+            },
+            {
+              "nome": "Pão Leve Centeio Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos.",
+              "validade": "• 4 meses",
+              "sku": "A0168600",
+              "ean": "789 840995 672-0",
+              "dun": "1 789 840995 686-4",
+              "faq": "xx",
+              "img": "produtos/kit_centeio.png",
+              "imgthu": "produtos/thumb/kit_centeio.png",
+              "pdf": "kit_centeio.pdf"
+            },
+            {
+              "nome": "Pão Leve Branco Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos",
+              "validade": "• 4 meses",
+              "sku": "A0169400",
+              "ean": "789 840995 694-2",
+              "dun": "1 789 840995 694-9",
+              "faq": "xx",
+              "img": "produtos/kit_branco.png",
+              "imgthu": "produtos/thumb/kit_branco.png",
+              "pdf": "kit_branco.pdf"
+            },
+            {
+              "nome": "Pão Leve Linhaça Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos",
+              "validade": "• 4 meses",
+              "sku": "A0169600",
+              "ean": "789 840995 696-6",
+              "dun": "1 789 840995 696-3",
+              "faq": "xx",
+              "img": "produtos/kit_linhaca.png",
+              "imgthu": "produtos/thumb/kit_linhaca.png",
+              "pdf": "kit_linhaca.pdf"
+            },
+            {
+              "nome": "Pão Leve Aveia Kit",
+              "caracter": "• Excelente volume e salto de forno</br> • Mistura de grãos selecionados para o perfeito balanço de sabor</br> • Já vem com antimofo e tem uma formulação que proporciona maciez</br> • Resulta em produtos finais de boa qualidade</br> • Pães macios por mais tempo</br> • Miolo leve, liso e homogêneo, não esfarela</br> • Maior rendimento: alta absorção de água (60% - 62%)</br> • Pão bonito, macio e saboroso ",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg, com 40 sacos, 40 fechos e 40 adesivos",
+              "validade": "• 4 meses",
+              "sku": "A0169700",
+              "ean": "789 840995 510-5",
+              "dun": "1 789 840995 510-2",
+              "faq": "xx",
+              "img": "produtos/kit_aveia.png",
+              "imgthu": "produtos/thumb/kit_aveia.png",
+              "pdf": "kit_aveia.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Linha lanche",
+          "imgthusc": "produtos/thumb/mistura_preparo_croissant.png",
+          "prodcat": [
+            {
+              "nome": "Croissant",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida  ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0434000",
+              "ean": "789 840995 340-8",
+              "dun": "1 789 840995 340-5",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_croissant.png",
+              "imgthu": "produtos/thumb/mistura_preparo_croissant.png",
+              "pdf": "mistura_croissant.pdf"
+            },
+            {
+              "nome": "Folhados",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0433900",
+              "ean": "789 840995 339-2",
+              "dun": "1 789 840995 339-9",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_massas_folhadas.png",
+              "imgthu": "produtos/thumb/mistura_preparo_massas_folhadas.png",
+              "pdf": "mistura_massas_folhadas.pdf"
+            },
+            {
+              "nome": "Salgadinho",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida  ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0434100",
+              "ean": "789 840995 341-5",
+              "dun": "1 789 840995 341-2",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_salgados.png",
+              "imgthu": "produtos/thumb/mistura_preparo_salgados.png",
+              "pdf": "mistura_salgadinhos.pdf"
+            },
+            {
+              "nome": "Pão de queijo 1kg",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0156000",
+              "ean": "789 840995 560-0",
+              "dun": "1 789 840995 560-7",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_pao_queijo1.png",
+              "imgthu": "produtos/thumb/mistura_preparo_pao_queijo1.png",
+              "pdf": "pao_queijo.pdf"
+            },
+            {
+              "nome": "Pão de queijo 5kg",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0170200",
+              "ean": "789 840995 702-4",
+              "dun": "1 789 840995 702-1",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_pao_queijo5.png",
+              "imgthu": "produtos/thumb/mistura_preparo_pao_queijo5.png",
+              "pdf": "mistura_pao_queijo5.pdf"
+            },
+            {
+              "nome": "Pão de batata",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida ",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0170300",
+              "ean": "789 840995 703-1",
+              "dun": "1 789 840995 703-8",
+              "faq": "xx",
+              "img": "produtos/mistura_preparo_pao_batata.png",
+              "imgthu": "produtos/thumb/mistura_preparo_pao_batata.png",
+              "pdf": "mistura_pao_batata.pdf"
+            },
+            {
+              "nome": "Pão de hambúrger",
+              "caracter": "• Receita balanceada</br> • Excelente salto de forno</br> • Alta versatilidade</br> • Alto rendimento</br> • Evita desperdícios, pois os ingredientes vêm na medida certa</br> • Aroma agradável e cor atrativa</br> • Produto macio por mais tempo</br> • Resulta em produtos leves e com qualidade garantida",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0433000",
+              "ean": "789 840995 330-9",
+              "dun": "1 789 840995 330-6",
+              "faq": "xx",
+              "img": "produtos/mistura_pao_hamburger.png",
+              "imgthu": "produtos/thumb/mistura_pao_hamburger.png",
+              "pdf": "mistura_pao_hamburger.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Misturas para panettone",
+          "imgthusc": "produtos/thumb/mistura_panettone.png",
+          "prodcat": [
+            {
+              "nome": "Panettone com gema",
+              "caracter": "• Ideal para fabricação de panettone, amsterdam, chocotone, stolen, colomba pascal, entre outros</br> • Preparo prático e rápido (método esponja ou método direto)</br> • Qualidade e sabor de panettone artesanal</br> • Maciez e frescor",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0298500",
+              "ean": "789 840995 985-1",
+              "dun": "1 789 840995 985-8",
+              "faq": "xx",
+              "img": "produtos/mistura_panettone.png",
+              "imgthu": "produtos/thumb/mistura_panettone.png",
+              "pdf": "mistura_panettone_com_gema.pdf"
+            },
+            {
+              "nome": "Panettone sem gema",
+              "caracter": "• Ideal para fabricação de panettone, amsterdam, chocotone, stolen, colomba pascal, entre outros</br> • Preparo prático e rápido (método esponja ou método direto)</br> • Qualidade e sabor de panettone artesanal</br> • Maciez e frescor",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses ",
+              "sku": "A0298600",
+              "ean": "789 840995 986-8",
+              "dun": "1 789 840995 986-5",
+              "faq": "xx",
+              "img": "produtos/mistura_panettone.png",
+              "imgthu": "produtos/thumb/mistura_panettone.png",
+              "pdf": "mistura_panettone_sem_gema.pdf"
+            },
+            {
+              "nome": "Panettone sem gema kit",
+              "caracter": "• Ideal para fabricação de panettone, amsterdam, chocotone, stolen, colomba pascal, entre outros</br> • Preparo prático e rápido (método esponja ou método direto)</br> • Qualidade e sabor de panettone artesanal</br> • Maciez e frescor",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg cada, com 50 sacos, 50 fechos e 50 formas ",
+              "validade": "• 6 meses",
+              "sku": "A0298300",
+              "ean": "789 840995 986-8",
+              "dun": "1 789 840995 983-4",
+              "faq": "xx",
+              "img": "produtos/mistura_panettone.png",
+              "imgthu": "produtos/thumb/mistura_panettone.png",
+              "pdf": "mistura_panettone_sem_gema_kit.pdf"
+            },
+            {
+              "nome": "Panettone com gema kit",
+              "caracter": "• Ideal para fabricação de panettone, amsterdam, chocotone, stolen, colomba pascal, entre outros</br> • Preparo prático e rápido (método esponja ou método direto)</br> • Qualidade e sabor de panettone artesanal</br> • Maciez e frescor",
+              "embalagem": "• Kit: caixa de 10 kg com 2 embalagens de 5 kg cada, com 50 sacos, 50 fechos e 50 formas ",
+              "validade": "• 6 meses",
+              "sku": "A0298200",
+              "ean": "789 840995 985-1",
+              "dun": "1 789 840995 982-7",
+              "faq": "xx",
+              "img": "produtos/mistura_panettone.png",
+              "imgthu": "produtos/thumb/mistura_panettone.png",
+              "pdf": "mistura_panettone_com_gema_kit.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Pré Misturas para bolo",
+      "subcat": [
+        {
+          "nomesubcat": "Bolos Sabores ",
+          "imgthusc": "produtos/thumb/mistura_bolo_sabores_2.png",
+          "prodcat": [
+            {
+              "nome": "Banana",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0437000",
+              "ean": "789 840995 043-8 ",
+              "dun": "1 789 840995 043-5",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores_2.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores_2.png",
+              "pdf": "mistura_banana.pdf"
+            },
+            {
+              "nome": "Chocolate",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433400",
+              "ean": "789 840995 334-7",
+              "dun": "1 789 840995 334-4",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores_2.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores_2.png",
+              "pdf": "mistura_chocolate.pdf"
+            },
+            {
+              "nome": "Laranja",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433500",
+              "ean": "789 840995 335-4",
+              "dun": "1 789 840995 335-1",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores.png",
+              "pdf": "mistura_laranja.pdf"
+            },
+            {
+              "nome": "Coco",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433800",
+              "ean": "789 840995 338-5",
+              "dun": "1 789 840995 338-2 ",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores_2.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores_2.png",
+              "pdf": "mistura_coco.pdf"
+            },
+            {
+              "nome": "Abacaxi",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433700 ",
+              "ean": "789 840995 337-8 ",
+              "dun": "1 789 840995 337-5",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores.png",
+              "pdf": "mistura_abacaxi.pdf"
+            },
+            {
+              "nome": "Neutro",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433600",
+              "ean": "789 840995 336-1 ",
+              "dun": "1 789 840995 336-8",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores_2.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores_2.png",
+              "pdf": "mistura_neutro.pdf"
+            },
+            {
+              "nome": "Cenoura",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0434900",
+              "ean": "789 840995 349-1",
+              "dun": "1 789 840995 349-8",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores.png",
+              "pdf": "mistura_cenoura.pdf"
+            },
+            {
+              "nome": "Milho",
+              "caracter": "• Sabor balanceado</br> • Produto final macio e saboroso</br> • Alta qualidade</br> • Excelente crescimento no forno</br> • Preparo rápido: só 3 minutos de batimento</br> • Maior produtividade e agilidade</br> • Evita desperdícios: ingredientes na medida certa",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0434800",
+              "ean": "789 840995 348-4",
+              "dun": "1 789 840995 348-1",
+              "faq": "xx",
+              "img": "produtos/mistura_bolo_sabores_2.png",
+              "imgthu": "produtos/thumb/mistura_bolo_sabores_2.png",
+              "pdf": "mistura_milho.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Bolos Especiais",
+          "imgthusc": "produtos/thumb/mistura_pao_de_lo.png",
+          "prodcat": [
+            {
+              "nome": "Cake Neutro",
+              "caracter": "• Ideal para cakes, bolos, muffins, base de tortas, mini bolos, entre outros</br> • Sabor indiscutível e textura diferenciada</br> • Maior frescor e maciez</br> • Preparo rápido e fácil</br> • Alto rendimento</br> • Miolo uniforme</br> • Produto versátil: permite variações de receitas</br> • Permite adição de uvas-passas, frutas em geral, gotas de chocolate e recheio como cobertura</br> • Volume diferenciado",
+              "embalagem": "• Caixa de 18 kg com 6 embalagens de 3 kg cada (Cakes) ",
+              "validade": "• 6 meses",
+              "sku": "A0436800",
+              "ean": "789 840995 361-3 ",
+              "dun": "1 789 840995 361-0 ",
+              "faq": "xx",
+              "img": "produtos/mistura_cake_neutro.png",
+              "imgthu": "produtos/thumb/mistura_cake_neutro.png",
+              "pdf": "mistura_cake_neutro.pdf"
+            },
+            {
+              "nome": "Cake Chocolate",
+              "caracter": "• Ideal para cakes, bolos, muffins, base de tortas, mini bolos, entre outros</br> • Sabor indiscutível e textura diferenciada</br> • Maior frescor e maciez</br> • Preparo rápido e fácil</br> • Alto rendimento</br> • Miolo uniforme</br> • Produto versátil: permite variações de receitas</br> • Permite adição de uvas-passas, frutas em geral, gotas de chocolate e recheio como cobertura</br> • Volume diferenciado",
+              "embalagem": "• Caixa de 18 kg com 6 embalagens de 3 kg cada (Cakes)",
+              "validade": "• 6 meses",
+              "sku": "A0436900",
+              "ean": "789 840995 362-0",
+              "dun": "1 789 840995 362-7 ",
+              "faq": "xx",
+              "img": "produtos/mistura_cake_chocolate.png",
+              "imgthu": "produtos/thumb/mistura_cake_chocolate.png",
+              "pdf": "mistura_cake_chocolate.pdf"
+            },
+            {
+              "nome": "Bolo Inglês",
+              "caracter": "• Ideal para cakes, bolos, muffins, base de tortas, mini bolos, entre outros</br> • Sabor indiscutível e textura diferenciada</br> • Maior frescor e maciez</br> • Preparo rápido e fácil</br> • Alto rendimento</br> • Miolo uniforme</br> • Produto versátil: permite variações de receitas</br> • Permite adição de uvas-passas, frutas em geral, gotas de chocolate e recheio como cobertura</br> • Volume diferenciado",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0166427",
+              "ean": "789 840995 664-5",
+              "dun": "1 789 840995 664-2",
+              "faq": "xx",
+              "img": "produtos/bolo_ingles.png",
+              "imgthu": "produtos/thumb/bolo_ingles.png",
+              "pdf": "bolo_ingles.pdf"
+            },
+            {
+              "nome": "Muffins e mini bolos",
+              "caracter": "• Ideal para cakes, bolos, muffins, base de tortas, mini bolos, entre outros</br> • Sabor indiscutível e textura diferenciada</br> • Maior frescor e maciez</br> • Preparo rápido e fácil</br> • Alto rendimento</br> • Miolo uniforme</br> • Produto versátil: permite variações de receitas</br> • Permite adição de uvas-passas, frutas em geral, gotas de chocolate e recheio como cobertura</br> • Volume diferenciado",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada (Muffins e mini bolos)",
+              "validade": "• 6 meses",
+              "sku": "A0156400",
+              "ean": "789 840995 648-5",
+              "dun": "1 789 840995 564-5",
+              "faq": "xx",
+              "img": "produtos/mistura_muffins_bolos.png",
+              "imgthu": "produtos/thumb/mistura_muffins_bolos.png",
+              "pdf": "muffins_minibolos.pdf"
+            },
+            {
+              "nome": "Donuts e sonhos",
+              "caracter": "• Típica receita americana de donuts</br> • Fácil manuseio</br> • Qualidade de produtos industrializados</br> • Praticidade</br> • Depois de frito não solta gordura</br> • Padronização: resulta em produtos finais de qualidade garantida</br> • Textura premium ",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0156600",
+              "ean": "789 840995 662-1",
+              "dun": "1 789 840995 566-9",
+              "faq": "xx",
+              "img": "produtos/mistura_donuts_sonhos.png",
+              "imgthu": "produtos/thumb/mistura_donuts_sonhos.png",
+              "pdf": "donuts_sonhos.pdf"
+            },
+            {
+              "nome": "Pão de ló",
+              "caracter": "• Os ingredientes vêm na medida certa</br> • Maior durabilidade do produto na prateleira</br> • Facilidade e rapidez no preparo</br> • Produtos finais com qualidade garantida</br> • Maior volume e melhor textura</br> • Maior resistência na aplicação de recheios e coberturas ",
+              "embalagem": "• Caixa de 20 kg com 5 embalagens de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0433200",
+              "ean": "789 840995 332-3",
+              "dun": "1 789 840995 332-0",
+              "faq": "xx",
+              "img": "produtos/mistura_pao_de_lo.png",
+              "imgthu": "produtos/thumb/mistura_pao_de_lo.png",
+              "pdf": "mistura_pao_lo.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Bolos Gold e Aipim",
+          "imgthusc": "produtos/thumb/bolo_aipim.png",
+          "prodcat": [
+            {
+              "nome": "Cenoura",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0436700",
+              "ean": "789 840995 360-6",
+              "dun": "1 789 840995 360-3",
+              "faq": "xx",
+              "img": "produtos/bolo_cenoura.png",
+              "imgthu": "produtos/thumb/bolo_cenoura.png",
+              "pdf": "bolo_cenoura.pdf"
+            },
+            {
+              "nome": "Milho Cremoso",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0433100",
+              "ean": "789 840995 331-6",
+              "dun": "1 789 840995 331-3",
+              "faq": "xx",
+              "img": "produtos/bolo_milho_cremoso.png",
+              "imgthu": "produtos/thumb/bolo_milho_cremoso.png",
+              "pdf": "bolo_milho.pdf"
+            },
+            {
+              "nome": "Amendoim",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos  ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0437100",
+              "ean": "789 840995 045-2",
+              "dun": "1 789 840995 045-9",
+              "faq": "xx",
+              "img": "produtos/bolo_amendoim.png",
+              "imgthu": "produtos/thumb/bolo_amendoim.png",
+              "pdf": "bolo_amendoim.pdf"
+            },
+            {
+              "nome": "Fubá",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0435400",
+              "ean": "789 840995 350-7",
+              "dun": "1 789 840995 354-2",
+              "faq": "xx",
+              "img": "produtos/bolo_fuba.png",
+              "imgthu": "produtos/thumb/bolo_fuba.png",
+              "pdf": "bolo_fuba.pdf"
+            },
+            {
+              "nome": "Chocomousse",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0435300",
+              "ean": "789 840995 353-8",
+              "dun": "1 789 840995 353-5",
+              "faq": "xx",
+              "img": "produtos/bolo_chocomousse.png",
+              "imgthu": "produtos/thumb/bolo_chocomousse.png",
+              "pdf": "bolo_chocomousse.pdf"
+            },
+            {
+              "nome": "Limão Cremoso",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0435100 ",
+              "ean": "789 840995 351-4",
+              "dun": "1 789 840995 351-1",
+              "faq": "xx",
+              "img": "produtos/bolo_limao_cremoso.png",
+              "imgthu": "produtos/thumb/bolo_limao_cremoso.png",
+              "pdf": "bolo_limao.pdf"
+            },
+            {
+              "nome": "Brownie / Petit Gateau",
+              "caracter": "• Mais cremoso</br> • Versátil</br> • Textura mais leve, desmancha na boca</br> • Bolos com sabor autêntico</br> • Produto diferenciado que traz maior valor agregado</br> • Fácil e prático: é só acrescentar leite e ovos</br> • Preparo rápido</br> • Qualidade garantida</br> • Ótima combinação com recheios e coberturas</br> • Permite utilizar diversas coberturas e acabamentos ",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0434400",
+              "ean": "789 840995 344-6",
+              "dun": "1 789 840995 344-3",
+              "faq": "xx",
+              "img": "produtos/brownie_petit.png",
+              "imgthu": "produtos/thumb/brownie_petit.png",
+              "pdf": "brownie_petit.pdf"
+            },
+            {
+              "nome": "Bolo de aipim",
+              "caracter": "• Rapidez: batimento de apenas 2 minutos</br> • Faz do bolo cremoso ao aerado</br> • Ingredientes na medida certa</br> • Cremoso e úmido</br> • Facilidade: basta adicionar água e ovos</br> • Resulta em produtos finais com qualidade garantida",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0170400",
+              "ean": "789 840995 704-8",
+              "dun": "1 789 840995 704-5",
+              "faq": "xx",
+              "img": "produtos/bolo_aipim.png",
+              "imgthu": "produtos/thumb/bolo_aipim.png",
+              "pdf": "bolo_aipim.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Brilhos, Recheios e Coberturas",
+      "subcat": [
+        {
+          "nomesubcat": "Brilho",
+          "imgthusc": "produtos/thumb/brilho_neutro.png",
+          "prodcat": [
+            {
+              "nome": "Brilho Neutro",
+              "caracter": "• Sabor incomparável</br> • Alto brilho</br> • Excelente espalhabilidade</br> • Textura fina após a aplicação</br> • Fácil de aplicar</br> • Pode ser congelado após a aplicação no produto</br> • Produto pronto para uso</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130000",
+              "ean": "789 840995 300-2",
+              "dun": "1 789 840995 300-9",
+              "faq": "xx",
+              "img": "produtos/brilho_neutro.png",
+              "imgthu": "produtos/thumb/brilho_neutro.png",
+              "pdf": "brilho_neutro.pdf"
+            },
+            {
+              "nome": "Brilho Maracujá",
+              "caracter": "• Sabor incomparável</br> • Alto brilho</br> • Excelente espalhabilidade</br> • Textura fina após a aplicação</br> • Fácil de aplicar</br> • Pode ser congelado após a aplicação no produto</br> • Produto pronto para uso</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130200",
+              "ean": "789 840995 302-6",
+              "dun": "1 789 840995 302-3",
+              "faq": "xx",
+              "img": "produtos/brilho_maracuja.png",
+              "imgthu": "produtos/thumb/brilho_maracuja.png",
+              "pdf": "brilho_maracuja.pdf"
+            },
+            {
+              "nome": "Brilho Morango com semente",
+              "caracter": "• Sabor incomparável</br> • Alto brilho</br> • Excelente espalhabilidade</br> • Textura fina após a aplicação</br> • Fácil de aplicar</br> • Pode ser congelado após a aplicação no produto</br> • Produto pronto para uso</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130100",
+              "ean": "789 840995 301-9",
+              "dun": "1 789 840995 301-6",
+              "faq": "xx",
+              "img": "produtos/brilho_morango_semente.png",
+              "imgthu": "produtos/thumb/brilho_morango_semente.png",
+              "pdf": "brilho_morango_semente.pdf"
+            },
+            {
+              "nome": "Brilho Morango sem semente",
+              "caracter": "• Sabor incomparável</br> • Alto brilho</br> • Excelente espalhabilidade</br> • Textura fina após a aplicação</br> • Fácil de aplicar</br> • Pode ser congelado após a aplicação no produto</br> • Produto pronto para uso</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0132100",
+              "ean": "789 840995 321-7",
+              "dun": "1 789 840995 321-4",
+              "faq": "xx",
+              "img": "produtos/brilho_morango.png",
+              "imgthu": "produtos/thumb/brilho_morango.png",
+              "pdf": "brilho_morango.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Recheios",
+          "imgthusc": "produtos/thumb/recheio_nozes.png",
+          "prodcat": [
+            {
+              "nome": "Recheio Coco",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0130700",
+              "ean": "789 840995 307-1",
+              "dun": "1 789 840995 307-8",
+              "faq": "xx",
+              "img": "produtos/recheio_coco.png",
+              "imgthu": "produtos/thumb/recheio_coco.png",
+              "pdf": "recheio_coco.pdf"
+            },
+            {
+              "nome": "Recheio Frutas Vermelhas",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131400",
+              "ean": "789 840995 314-9",
+              "dun": "1 789 840995 314-6",
+              "faq": "xx",
+              "img": "produtos/recheio_frutas_vermelhas.png",
+              "imgthu": "produtos/thumb/recheio_frutas_vermelhas.png",
+              "pdf": "recheio_frutas_vermelhas.pdf"
+            },
+            {
+              "nome": "Recheio Goiaba",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131900",
+              "ean": "789 840995 319-4",
+              "dun": "1 789 840995 319-1",
+              "faq": "xx",
+              "img": "produtos/recheio_goiaba.png",
+              "imgthu": "produtos/thumb/recheio_goiaba.png",
+              "pdf": "recheio_goiaba.pdf"
+            },
+            {
+              "nome": "Recheio Leite Condensado",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131200",
+              "ean": "789 840995 312-5",
+              "dun": "1 789 840995 312-2",
+              "faq": "xx",
+              "img": "produtos/recheio_leite_condensado.png",
+              "imgthu": "produtos/thumb/recheio_leite_condensado.png",
+              "pdf": "recheio_leite_condensado.pdf"
+            },
+            {
+              "nome": "Recheio Limão",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131700",
+              "ean": "789 840995 317-0",
+              "dun": "1 789 840995 317-7",
+              "faq": "xx",
+              "img": "produtos/recheio_limao.png",
+              "imgthu": "produtos/thumb/recheio_limao.png",
+              "pdf": "recheio_limao.pdf"
+            },
+            {
+              "nome": "Recheio Maracujá",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0132000",
+              "ean": "789 840995 320-0",
+              "dun": "1 789 840995 320-7",
+              "faq": "xx",
+              "img": "produtos/recheio_maracuja.png",
+              "imgthu": "produtos/thumb/recheio_maracuja.png",
+              "pdf": "recheio_maracuja.pdf"
+            },
+            {
+              "nome": "Recheio Morango",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131000",
+              "ean": "789 840995 310-1",
+              "dun": "1 789 840995 310-8",
+              "faq": "xx",
+              "img": "produtos/recheio_morango.png",
+              "imgthu": "produtos/thumb/recheio_morango.png",
+              "pdf": "recheio_morango.pdf"
+            },
+            {
+              "nome": "Recheio Nozes",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131600",
+              "ean": "789 840995 316-3",
+              "dun": "1 789 840995 316-0",
+              "faq": "xx",
+              "img": "produtos/recheio_nozes.png",
+              "imgthu": "produtos/thumb/recheio_nozes.png",
+              "pdf": "recheio_nozes.pdf"
+            },
+            {
+              "nome": "Recheio Ameixa Preta",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131800",
+              "ean": "789 840995 318-7",
+              "dun": "1 789 840995 318-4",
+              "faq": "xx",
+              "img": "produtos/recheio_ameixa_preta.png",
+              "imgthu": "produtos/thumb/recheio_ameixa_preta.png",
+              "pdf": "recheio_ameixa_preta.pdf"
+            },
+            {
+              "nome": "Recheio Banana",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": " • 6 meses",
+              "sku": "A0131500",
+              "ean": "789 840995 315-6",
+              "dun": "1 789 840995 315-3",
+              "faq": "xx",
+              "img": "produtos/recheio_banana.png",
+              "imgthu": "produtos/thumb/recheio_banana.png",
+              "pdf": "recheio_banana.pdf"
+            },
+            {
+              "nome": "Recheio Baunilha",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0130900",
+              "ean": "789 840995 309-5",
+              "dun": "1 789 840995 309-2",
+              "faq": "xx",
+              "img": "produtos/recheio_baunilha.png",
+              "imgthu": "produtos/thumb/recheio_baunilha.png",
+              "pdf": "recheio_baunilha.pdf"
+            },
+            {
+              "nome": "Recheio Brigadeiro",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0130800",
+              "ean": "789 840995 308-8",
+              "dun": "1 789 840995 308-5",
+              "faq": "xx",
+              "img": "produtos/recheio_brigadeiro.png",
+              "imgthu": "produtos/thumb/recheio_brigadeiro.png",
+              "pdf": "recheio_brigadeiro.pdf"
+            },
+            {
+              "nome": "Recheio Chocolate com Coco",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": " • 6 meses",
+              "sku": "A0131300",
+              "ean": "789 840995 313-2",
+              "dun": "1 789 840995 313-9",
+              "faq": "xx",
+              "img": "produtos/recheio_chocolate_coco.png",
+              "imgthu": "produtos/thumb/recheio_chocolate_coco.png",
+              "pdf": "recheio_chocolate_coco.pdf"
+            },
+            {
+              "nome": "Recheio Chocolate Trufado",
+              "caracter": "• Sabor incomparável</br> • Termoestável: suporta forneamento e congelamento</br> • Tecnologia clean cut: faca limpa ao corte</br> • Textura ideal</br> • Excelente espalhabilidade</br> • Embalagem fácil de abrir e fechar</br> • Mistura-se com facilidade ao chantilly</br> • Produto pronto para uso</br> • Após o forneamento, o recheio permanece cremoso",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0131100",
+              "ean": "789 840995 311-8 ",
+              "dun": "1 789 840995 311-5",
+              "faq": "xx",
+              "img": "produtos/recheio_chocolate_trufado.png",
+              "imgthu": "produtos/thumb/recheio_chocolate_trufado.png",
+              "pdf": "recheio_chocolate_trufado.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Coberturas",
+          "imgthusc": "produtos/thumb/cobertura_chocolate.png",
+          "prodcat": [
+            {
+              "nome": "Cobertura Chocolate",
+              "caracter": "• Sabor incomparável</br> • Excelente espalhabilidade</br> • Textura ideal</br> • Alto brilho</br> • Produto pronto para uso</br> • Estabilidade pós-aplicação</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130300",
+              "ean": "789 840995 303-3",
+              "dun": "1 789 840995 303-0",
+              "faq": "xx",
+              "img": "produtos/cobertura_chocolate.png",
+              "imgthu": "produtos/thumb/cobertura_chocolate.png",
+              "pdf": "cobertura_chocolate.pdf"
+            },
+            {
+              "nome": "Cobertura Limão",
+              "caracter": "• Sabor incomparável</br> • Excelente espalhabilidade</br> • Textura ideal</br> • Alto brilho</br> • Produto pronto para uso</br> • Estabilidade pós-aplicação</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130600",
+              "ean": "789 840995 306-4",
+              "dun": "1 789 840995 306-1",
+              "faq": "xx",
+              "img": "produtos/cobertura_limao.png",
+              "imgthu": "produtos/thumb/cobertura_limao.png",
+              "pdf": "cobertura_limao.pdf"
+            },
+            {
+              "nome": "Cobertura Frutas Vermelhas",
+              "caracter": "• Sabor incomparável</br> • Excelente espalhabilidade</br> • Textura ideal</br> • Alto brilho</br> • Produto pronto para uso</br> • Estabilidade pós-aplicação</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130500  ",
+              "ean": "789 840995 305-7",
+              "dun": "1 789 840995 305-4",
+              "faq": "xx",
+              "img": "produtos/cobertura_frutas_vermelhas.png",
+              "imgthu": "produtos/thumb/cobertura_frutas_vermelhas.png",
+              "pdf": "cobertura_frutas_vermelhas.pdf"
+            },
+            {
+              "nome": "Cobertura Caramelo",
+              "caracter": "• Sabor incomparável</br> • Excelente espalhabilidade</br> • Textura ideal</br> • Alto brilho</br> • Produto pronto para uso</br> • Estabilidade pós-aplicação</br> • Embalagem fácil de abrir e fechar",
+              "embalagem": "• Caixa de 16 kg com 4 baldes de 4 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0130400",
+              "ean": "789 840995 304-0",
+              "dun": "1 789 840995 304-7",
+              "faq": "xx",
+              "img": "produtos/cobertura_caramelo.png",
+              "imgthu": "produtos/thumb/cobertura_caramelo.png",
+              "pdf": "cobertura_caramelo.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Chantilly ",
+      "subcat": [
+        {
+          "nomesubcat": "Chantilly",
+          "imgthusc": "produtos/thumb/chantilly.png",
+          "prodcat": [
+            {
+              "nome": "Chantilly Tradicional",
+              "caracter": "• Sabor suave, permite adição de ingredientes (açúcar, corante, cacau em pó, sucos de fruta, licores, café)</br> • Fácil de preparar: basta bater em velocidade média até obter a consistência desejada</br> • Fácil alisamento</br> • Excelente volume, não reseca</br> • Apropriado para produção em larga escala</br> • Não contém gordura trans</br> • Fácil manuseio para aplicação</br> • Pode ser utilizado puro ou com até 30% de creme de leite, leite ou água</br> • Aceita cítricos e corantes</br> • Não requer congelamento antes do batimento",
+              "embalagem": "• Caixa de 12 L com 12 embalagens de 1 L cada ",
+              "validade": "• 9 meses</br> • Após aberto, deve ser mantido sob refrigeração e consumido em até 4 dias",
+              "sku": "A0000500",
+              "ean": "789 840995 005-6",
+              "dun": "1 789 840995 005-3",
+              "faq": "xx",
+              "img": "produtos/chantilly.png",
+              "imgthu": "produtos/thumb/chantilly.png",
+              "pdf": "chantilly.pdf"
+            },
+            {
+              "nome": "Chantilly Chocolate",
+              "caracter": "• Sabor suave, permite adição de ingredientes (açúcar, corante, cacau em pó, sucos de fruta, licores, café)</br> • Fácil de preparar: basta bater em velocidade média até obter a consistência desejada</br> • Fácil alisamento</br> • Excelente volume, não reseca</br> • Apropriado para produção em larga escala</br> • Não contém gordura trans</br> • Fácil manuseio para aplicação</br> • Pode ser utilizado puro ou com até 30% de creme de leite, leite ou água</br> • Aceita cítricos e corantes</br> • Não requer congelamento antes do batimento",
+              "embalagem": "• Caixa de 12 L com 12 embalagens de 1 L cada ",
+              "validade": "• 9 meses</br> • Após aberto, deve ser mantido sob refrigeração e consumido em até 4 dias",
+              "sku": "A0003500",
+              "ean": "789 840995 035-3",
+              "dun": "1 789 840995 035-0",
+              "faq": "xx",
+              "img": "produtos/chantilly_chocolate.png",
+              "imgthu": "produtos/thumb/chantilly_chocolate.png",
+              "pdf": "chantilly_chocolate.pdf"
+            },
+            {
+              "nome": "Chantilly Platinum",
+              "caracter": "• Naturalmente branco, não amarela com o tempo</br> • Fácil alisamento, textura cremosa e uniforme</br> • Excelente estabilidade, não resseca</br> • Não racha, nem desmonta, inigualável para decorações</br> • Maior firmeza por mais tempo</br> • Praticidade no manuseio</br> • Aceita cítricos e corantes</br> • Não requer congelamento antes do batimento</br> • Excelentes resultados finais",
+              "embalagem": "• Caixa de 12 L com 12 embalagens de 1 L cada ",
+              "validade": "• 9 meses</br> • Após aberto, deve ser mantido sob refrigeração e consumido em até 4 dias",
+              "sku": "A00003400",
+              "ean": "789 840995 034-6",
+              "dun": "1 789 840995 034-3",
+              "faq": "xx",
+              "img": "produtos/chantilly_premium.png",
+              "imgthu": "produtos/thumb/chantilly_premium.png",
+              "pdf": "chantilly_platinum.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Confeitaria",
+      "subcat": [
+        {
+          "nomesubcat": "Confeitaria",
+          "imgthusc": "produtos/thumb/fondant.png",
+          "prodcat": [
+            {
+              "nome": "Creme recheio",
+              "caracter": "• Aroma delicioso e sabor suave de baunilha</br> • Textura cremosa, suave e firme</br> • Próprio para decoração</br> • Não contém gordura trans</br> • Cor e sabor incomparáveis</br> • Excelente apresentação</br> • Rápido e fácil de preparar",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0156100",
+              "ean": "789 840995 156-5",
+              "dun": "1 789 840995 156-2",
+              "faq": "xx",
+              "img": "produtos/creme_recheio.png",
+              "imgthu": "produtos/thumb/creme_recheio.png",
+              "pdf": "recheio_creme.pdf"
+            },
+            {
+              "nome": "Fondant",
+              "caracter": "• Realça o sabor dos produtos</br> • Cor e brilho especiais</br> • Valoriza a aparência do produto final</br> • Praticidade e facilidade no preparo</br> • Não exige refrigeração",
+              "embalagem": "• Caixa de 12 kg com 6 embalagens de 2 kg cada ",
+              "validade": "• 6 meses",
+              "sku": "A0012800",
+              "ean": "789 840995 128-2",
+              "dun": "1 789 840995 128-9",
+              "faq": "xx",
+              "img": "produtos/fondant.png",
+              "imgthu": "produtos/thumb/fondant.png",
+              "pdf": "fondant.pdf"
+            },
+            {
+              "nome": "Flocos de coco",
+              "caracter": "• Obtido pela desidratação da poupa dos melhores cocos</br> • Cocos selecionados cortados em fios</br> • Versátil: permite diferentes aplicações em diversos produtos</br> • Não precisa ser refrigerado</br> • Não é necessário ferver com açúcar para conservar",
+              "embalagem": "• Caixa de 10 kg com 10 embalagens de 1 kg cada",
+              "validade": "• 1 ano",
+              "sku": "A0166800",
+              "ean": "789 840995 668-3",
+              "dun": "1 789 840995 698-7",
+              "faq": "xx",
+              "img": "produtos/flocos_coco.png",
+              "imgthu": "produtos/thumb/flocos_coco.png",
+              "pdf": "flocos_coco.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Ovos e Sobremesas",
+      "subcat": [
+        {
+          "nomesubcat": "Ovos Pasteurizados",
+          "imgthusc": "produtos/thumb/ovos_pasteurizados.png",
+          "prodcat": [
+            {
+              "nome": "Ovos",
+              "caracter": "• Produtos prontos para o uso</br> • Pasteurizados, sem risco de bactérias patogênicas, como a salmonela</br> • Filtrados, para remover a película e evitar pedaços de casca nas receitas</br> • Padronização de receitas: dosagem e rendimento uniformes</br> • Redução de perdas por quebra acidental ou por ovos estragados</br> • Redução do tempo de preparo de receitas ao eliminar o processo de quebra de ovos",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada ",
+              "validade": "• 45 dias</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC ",
+              "sku": "03320006",
+              "ean": "789 833101 003-3",
+              "dun": "1 789 833101 003-0",
+              "faq": "xx",
+              "img": "produtos/ovos_pasteurizados.png",
+              "imgthu": "produtos/thumb/ovos_pasteurizados.png",
+              "pdf": "ovos_pasteurizados.pdf"
+            },
+            {
+              "nome": "Gemas",
+              "caracter": "• Produtos prontos para o uso</br> • Pasteurizados, sem risco de bactérias patogênicas, como a salmonela</br> • Filtrados, para remover a película e evitar pedaços de casca nas receitas</br> • Padronização de receitas: dosagem e rendimento uniformes</br> • Redução de perdas por quebra acidental ou por ovos estragados</br> • Redução do tempo de preparo de receitas ao eliminar o processo de quebra de ovos",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada  ",
+              "validade": "• 45 dias</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC ",
+              "sku": "03120013",
+              "ean": "789 833101 005-7",
+              "dun": "1 789 833101 005-4",
+              "faq": "xx",
+              "img": "produtos/gema_ovo_pasteurizada.png",
+              "imgthu": "produtos/thumb/gema_ovo_pasteurizada.png",
+              "pdf": "gemas_pasteurizadas.pdf"
+            },
+            {
+              "nome": "Claras",
+              "caracter": "• Produtos prontos para o uso</br> • Pasteurizados, sem risco de bactérias patogênicas, como a salmonela</br> • Filtrados, para remover a película e evitar pedaços de casca nas receitas</br> • Padronização de receitas: dosagem e rendimento uniformes</br> • Redução de perdas por quebra acidental ou por ovos estragados</br> • Redução do tempo de preparo de receitas ao eliminar o processo de quebra de ovos",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada  ",
+              "validade": "• 60 dias</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC ",
+              "sku": "03220004",
+              "ean": "789 833101 001-9",
+              "dun": "1 789 833101 001-6 ",
+              "faq": "xx",
+              "img": "produtos/clara_pasteurizada.png",
+              "imgthu": "produtos/thumb/clara_pasteurizada.png",
+              "pdf": "claras_pasteurizadas.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Sobremesas",
+          "imgthusc": "produtos/thumb/fios_de_ovos.png",
+          "prodcat": [
+            {
+              "nome": "Quindim Fleischeggs",
+              "caracter": "• Faz quindins e fios de ovos de forma muito mais fácil</br> • Livres de contaminação por salmonela</br> • Elimina a sobra de claras e problemas com ovos estragados</br> • Redução do tempo de preparo e aumento da produtividade",
+              "embalagem": "• Caixa de 12 Kg com 12 embalagens de 1 Kg cada</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC",
+              "validade": "• 6 meses ",
+              "sku": "03120035",
+              "ean": "789 833101 042-2",
+              "dun": "1 789 833101 102-0",
+              "faq": "xx",
+              "img": "produtos/quindim.png",
+              "imgthu": "produtos/thumb/quindim.png",
+              "pdf": "quindim.pdf"
+            },
+            {
+              "nome": "Fios de ovos Fleischeggs",
+              "caracter": "• Faz quindins e fios de ovos de forma muito mais fácil</br> • Livres de contaminação por salmonela</br> • Elimina a sobra de claras e problemas com ovos estragados</br> • Redução do tempo de preparo e aumento da produtividade",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC",
+              "validade": "• 45 dias",
+              "sku": "03120037",
+              "ean": "789 833101 040-8",
+              "dun": "1 789 833101 104-4",
+              "faq": "xx",
+              "img": "produtos/fios_de_ovos.png",
+              "imgthu": "produtos/thumb/fios_de_ovos.png",
+              "pdf": "fios_de_ovos.pdf"
+            },
+            {
+              "nome": "Pudim de Leite Fleischeggs ",
+              "caracter": "• Livre de contaminação por salmonela</br> • Padronização de receitas</br> • Redução do tempo de preparo da sobremesa e aumento da produtividade",
+              "embalagem": "• Caixa de 12 Kg com 12 embalagens de 1 Kg cada</br> • Mantenha o produto refrigerado entre 0ºC a 5ºC",
+              "validade": "• 6 meses",
+              "sku": "03420028",
+              "ean": "789 833101 046-0",
+              "dun": "1 789 833101 100-6",
+              "faq": "xx",
+              "img": "produtos/pudim_de_leite.png",
+              "imgthu": "produtos/thumb/pudim_de_leite.png",
+              "pdf": "pudim.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nomecat": "Melhoradores e Aditivos",
+      "subcat": [
+        {
+          "nomesubcat": "Melhoradores em pó",
+          "imgthusc": "produtos/thumb/melhorador_premium.png",
+          "prodcat": [
+            {
+              "nome": "Melhorador arkady",
+              "caracter": "• Corrige as variações da farinha de trigo para um resultado uniforme</br> • Reforça a rede de glúten das massas</br>• Garante pães com melhor textura e volume</br></br> Classificação para uso:</br>• Farinha forte",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0015200",
+              "ean": "789 840995 285-2",
+              "dun": "1 789 840995 285-9",
+              "faq": "xx",
+              "img": "produtos/preparado.png",
+              "imgthu": "produtos/thumb/preparado.png",
+              "pdf": "preparado.pdf"
+            },
+            {
+              "nome": "Melhorador preparado",
+              "caracter": "• Corrige as variações da farinha de trigo para um resultado uniforme</br> • Reforça a rede de glúten das massas</br>• Garante pães com melhor textura e volume</br></br> Classificação para uso:</br>• Farinha de moderada a forte",
+              "embalagem": "• Caixa de 20 kg com 4 embalagens de 5 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0153000",
+              "ean": "789 840995 952-3",
+              "dun": "1 789 840995 952-0",
+              "faq": "xx",
+              "img": "produtos/preparado.png",
+              "imgthu": "produtos/thumb/preparado.png",
+              "pdf": "preparado.pdf"
+            },
+            {
+              "nome": "Melhorador Concentrado",
+              "caracter": "• Corrige as variações da farinha de trigo para um resultado uniforme</br> • Reforça a rede de glúten das massas</br>• Garante pães com melhor textura e volume</br></br></br> Classificação para uso:</br>• Farinha de moderada a forte</br>• Garante pães com melhor textura e volume",
+              "embalagem": "• Caixa de 3,25 kg com 50 sachês de 65 g cada",
+              "validade": "• 6 meses",
+              "sku": "A0297300",
+              "ean": "789 840995 973-8",
+              "dun": "1 789 840995 973-5",
+              "faq": "xx",
+              "img": "produtos/concentrado.png",
+              "imgthu": "produtos/thumb/concentrado.png",
+              "pdf": "concentrado.pdf"
+            },
+            {
+              "nome": "Melhorador Premium em pó ",
+              "caracter": "• Corrige as variações da farinha de trigo para um resultado uniforme</br> • Reforça a rede de glúten das massas</br> • Excelente performance em longas fermentações e congelados</br> • Garante pães com melhor textura e volume</br></br> Classificação para uso:</br>• Farinha de moderada a forte (dependendo da aplicação)",
+              "embalagem": "• Caixa de 20,4 kg com 4 embalagens de 5,1 kg cada</br> • Caixa de 12 kg com 40 sachês de 300 g cada",
+              "validade": "• 6 meses",
+              "sku": "• Caixa de 20,4 kg com 4 embalagens de 5,1 kg - A0154000</br> • Caixa de 12 kg com 40 sachês de 300 g - A0154600",
+              "ean": "• Caixa de 20,4 kg com 4 embalagens de 5,1 kg - 789 840995 541-9</br> • Caixa de 12 kg com 40 sachês de 300 g - 789 840995 546-4",
+              "dun": "• Caixa de 20,4 kg com 4 embalagens de 5,1 kg - 1 789 840995 541-6</br> • Caixa de 12 kg com 40 sachês de 300 g - 1 789 840995 546-1",
+              "faq": "xx",
+              "img": "produtos/melhorador_premium.png",
+              "imgthu": "produtos/thumb/melhorador_premium.png",
+              "pdf": "melhorador_premium.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Melhoradores em pasta zas",
+          "imgthusc": "produtos/thumb/zas.png",
+          "prodcat": [
+            {
+              "nome": "zas",
+              "caracter": "• Corrige as variações da farinha de trigo para um resultado uniforme</br> •Evita desperdicio e perda de tempo com medições: já vem em dose única para 50 kg de farinha</br> • Melhora a testura e a crocância do pão</br> • Garante pães com melhor textura e maior volume</br> Classificação para uso</br>• Farinha forte",
+              "embalagem": "• Caixa com 48 unidades de 165 g (7,92 kg)",
+              "validade": "• 6 meses",
+              "sku": "A0189500",
+              "ean": "789 840995 895-3",
+              "dun": "789 840995 895-0",
+              "faq": "xx",
+              "img": "produtos/zas.png",
+              "imgthu": "produtos/thumb/zas.png",
+              "pdf": "melhorador_zas.pdf"
+            }
+          ]
+        },
+        {
+          "nomesubcat": "Aditivos",
+          "imgthusc": "produtos/thumb/antimofo_antirope.png",
+          "prodcat": [
+            {
+              "nome": "Antimofo e Anti-Rope",
+              "caracter": "• Inibe o desenvolvimento de mofo e rope (bactérias)</br> • Aumenta o tempo de prateleira de pães, bolos, biscoitos, massas e outros produtos de panificação e confeitaria</br> • Diminui trocas, devoluções e perdas em gôndolas devido ao emboloramento",
+              "embalagem": "• Caixa de 12 kg com 12 embalagens de 1 kg cada",
+              "validade": "• 6 meses",
+              "sku": "A0189600",
+              "ean": "789 840995 896-0",
+              "dun": "1 789 840995 896-7",
+              "faq": "xx",
+              "img": "produtos/antimofo_antirope.png",
+              "imgthu": "produtos/thumb/antimofo_antirope.png",
+              "pdf": "antimofo_antirope.pdf"
+            },
+            {
+              "nome": "Mais Macio",
+              "caracter": "• Reduz o esfarelamento dos pães</br> • Otimiza formulações</br> • Evita as perdas com trocas e devoluções</br> • Aumenta o tempo de comercialização dos pães</br> • Aumenta e prolonga a maciez dos pães",
+              "embalagem": "• Caixa de 6,4 kg com 16 displays   de 400 g cada",
+              "validade": "• 9 meses",
+              "sku": "A0003800",
+              "ean": "• 789 840995 038-4</br></br>• Display:</br> 789 840 995 039-1 ",
+              "dun": "1 789 840995 038-1 ",
+              "faq": "xx",
+              "img": "produtos/antimofo_mais_macio.png",
+              "imgthu": "produtos/thumb/antimofo_mais_macio.png",
+              "pdf": "mais_macio.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
